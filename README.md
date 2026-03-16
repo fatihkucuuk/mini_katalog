@@ -13,16 +13,16 @@ Uygulama, ürün listesini API üzerinden çekip, GridView ile kart tabanlı bir
 
 ## Çalıştırma Adımları
 
-1. Projeyi klonlayın veya indirin:
-git clone <proje-linki>
-cd mini-katalog-uygulamasi
+## 1. Projeyi klonlayın veya indirin:
+- git clone <proje-linki>
+- cd mini-katalog-uygulamasi
 
-2. Gerekli Flutter paketlerini yükleyin:
-flutter pub get
+## 2. Gerekli Flutter paketlerini yükleyin:
+- flutter pub get
 
-3. Uygulamayı çalıştırın:
-flutter run
+## 3. Uygulamayı çalıştırın:
+- flutter run
 
-4. Birden fazla cihaz bağlıysa, cihaz listesine bakın ve istediğiniz cihazı seçerek çalıştırın:
-flutter devices
-flutter run -d <cihaz-id>
+## . Birden fazla cihaz bağlıysa, cihaz listesine bakın ve istediğiniz cihazı seçerek çalıştırın:
+- flutter devices
+- flutter run -d <cihaz-id>
