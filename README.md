@@ -23,6 +23,6 @@ Uygulama, ürün listesini API üzerinden çekip, GridView ile kart tabanlı bir
 ## 3. Uygulamayı çalıştırın:
 - flutter run
 
-## . Birden fazla cihaz bağlıysa, cihaz listesine bakın ve istediğiniz cihazı seçerek çalıştırın:
+## 4. Birden fazla cihaz bağlıysa, cihaz listesine bakın ve istediğiniz cihazı seçerek çalıştırın:
 - flutter devices
 - flutter run -d <cihaz-id>
